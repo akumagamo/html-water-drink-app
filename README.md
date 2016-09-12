@@ -2,7 +2,8 @@
 ## Versionnumber 0.1.0 (2016-09-12) Alpha
 (***Documentation last update 2016-08-17 20:30***)  
 
-App that helps you monitor your water intake.
+App that helps you monitor your water intake.  
+*(Manifest doesn't work here)*  
 ![Screenshot ](https://raw.githubusercontent.com/akumagamo/html-water-drink-app/master/readme/screenshot_01.png "Screenshot Game Situation")  
   
 [Small demo](https://rawgit.com/akumagamo/html-water-drink-app/master/source/index.html)
