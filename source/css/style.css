@@ -1,0 +1,61 @@
+/* Styles go here */
+
+html, body{
+  height: 100%;
+}
+
+/* HELPER*/
+div{
+  border: 1px solid black;
+}
+
+li{
+  list-style: none;
+}
+
+.clear{
+  clear: both;
+  display: none;
+}
+
+.value{
+  background-color: #c6c6c6;
+  height: 60px;
+  text-align: center;
+
+}
+
+#currentIntake {
+  font-size: 2em;
+  line-height: 2em;
+  font-weight: bold;
+}
+
+.button-list{
+  overflow: auto;
+  margin: 1em 0;
+  padding: 0 1em;
+}
+
+.btn{
+  display: block;
+  float: left;
+  width: 48%;
+  height: 60px;
+  border: 1px solid blue;
+  margin-bottom: 40px;
+}
+
+.btn-submit{
+  height: 80px;
+  width: 96%;
+  margin-bottom: 10px;
+  border-color: red;
+}
+
+.btn-settings{
+  float: right;
+  height: 60px;
+  width: 60px;
+  margin: 0;
+}
