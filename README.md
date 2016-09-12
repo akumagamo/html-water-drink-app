@@ -56,7 +56,8 @@ https://github.com/akumagamo/html-water-drink-app.git
        | +- css
        | +-+- style.css
        | +- js
-       | +-+- engine.js
+       | +-+- script.js
        | +- index.html
+       | +- app.manifest
        +- readme.md (this document)
        +- LICENSE
