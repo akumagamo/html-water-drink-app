@@ -1,6 +1,6 @@
 # Water drink monitor App
 ## Versionnumber 0.1.0 (2016-09-12) Alpha
-(***Documentation last update 2016-09-12 22:00***)  
+(***Documentation last update 2016-09-13 21:45***)  
 
 App that helps you monitor your water intake. (prove of concept, what prototype can be done with native javascript in 2-3 hours) 
 *(Manifest doesn't work here)*  
